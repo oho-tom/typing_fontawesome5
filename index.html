@@ -2,12 +2,54 @@
 <html lang="ja">
 <head>
   <meta charset="utf-8">
-  <title>My Canvas</title>
+  <title>Typing@fontawesome</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
   <link href="./fontawesome-free-5.15.1-web/css/all.css" rel="stylesheet"> <!--load all styles -->
   <link rel="stylesheet" href="./css/styles.css">
 </head>
 <body>
+  <p id="message"></p>
+
+  <div id="target">
+      <i id="icon" aria-hidden="true"></i><div id="letterFront"></div><div id="letterCurrent"></div><div id="letterBack"></div><br>
+  </div>
+
+  <div id="good">
+      <i class="fa fa-smile fa-3x" aria-hidden="true"></i><br>
+      good<br>
+      <span id="goodCnt"></span><br>
+      letters
+  </div>
+  <div id="bad">
+      <i class="fa fa-frown fa-3x" aria-hidden="true"></i><br>
+      bad<br>
+      <span id="badCnt"></span><br>
+      letters
+  </div>
+  <div id="accuracy">
+      <i class="fa fa-keyboard fa-3x" aria-hidden="true"></i><br>
+      accuracy<br>
+      <span id="accuracyCnt"></span><br>
+      %
+  </div>
+  <div id="speed">
+      <i class="fa fa-bicycle fa-3x" aria-hidden="true"></i><br>
+      speed<br>
+      <span id="speedCnt"></span><br>
+      letters/sec
+  </div>
+  <br>
+
+  <div id="remainingTime">
+      Remaining Time: <span id="playTime"></span>
+      <div id="timeBar" class="progress">
+          <div id="timeBarInner" class="progress-bar progress-bar-success" style="width:100%"></div>
+      </div>
+  </div>
+
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="./bootstrap/js/bootstrap.min.js"></script>
   <script src="./js/main.js"></script>
 </body>
 </body>

@@ -11,7 +11,7 @@ $(function() {
     //   icons.push(icon);
     // });
     icons = data;
-    draw();
+    // draw();
   })
   // 5. failは、通信に失敗した時に実行される
   .fail(function(jqXHR, textStatus, errorThrown ) {

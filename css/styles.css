@@ -1,17 +1,85 @@
-.container {
+body {
   text-align: center;
-  margin: 2rem auto;
 }
 
-.icon-container {
+.post-content {
+  padding: 20px;
+  font-family: 'Courier New', sans-serif;
+  text-align: center;
+  background: white;
+}
+
+#message {
+  font-size: 30px;
+  letter-spacing: 3px;
+  margin: 20px auto;
+  padding: 10px 0;
+}
+
+#target {
+  width: 400px;
   margin: 0 auto;
-  width: 60%;
-  display: flex;
-  flex-wrap: wrap;
+  font-size: 30px;
+  background: #eee;
+  padding: 20px 0;
+  border-radius: 5px;
+  position: relative;
+  text-align: center;
+}
+#icon {
+  margin-right: 10px;
+}
+#letterFront {
+  display: inline-block;
+}
+#letterCurrent {
+  display: inline-block;
+  color: red;
+}
+#letterBack {
+  display: inline-block;
 }
 
-i.fas {
-  color: grey;
-  font-size: 3rem;
-  margin: 1rem;
+#good, #bad, #accuracy, #speed{
+  display: inline-block;
+  margin: 30px 25px;
+}
+
+#good.goodOn {
+  color: dodgerblue;
+}
+
+#bad.badOn {
+  color: red;
+}
+
+#goodCnt, #badCnt, #accuracyCnt, #speedCnt {
+  font-size: 26px;
+}
+
+#remainingTime {
+  font-size: 20px;
+}
+#timeBar {
+  width: 400px;
+  margin: 0px auto;
+}
+
+/* 点滅 */
+.blinking{
+-webkit-animation:blink 1.0s ease-in-out infinite alternate;
+  -moz-animation:blink 1.0s ease-in-out infinite alternate;
+  animation:blink 1.0s ease-in-out infinite alternate;
+}
+@-webkit-keyframes blink{
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+@-moz-keyframes blink{
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+@keyframes blink{
+  0% {opacity:0;}
+  100% {opacity:1;}
 }
