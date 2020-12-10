@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+.icon-container {
+  margin: 0 auto;
+  width: 60%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+i.fas {
+  color: grey;
+  font-size: 3rem;
+  margin: 1rem;
+}

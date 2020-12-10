@@ -1,5 +1,5 @@
 {
-  "data": [
+  "Accessibility": [
     "fa-american-sign-language-interpreting",
     "fa-assistive-listening-systems",
     "fa-audio-description",
@@ -13,7 +13,9 @@
     "fa-sign-language",
     "fa-tty",
     "fa-universal-access",
-    "fa-wheelchair",
+    "fa-wheelchair"
+  ],
+  "Alert": [
     "fa-bell",
     "fa-bell-slash",
     "fa-exclamation",
@@ -21,7 +23,9 @@
     "fa-exclamation-triangle",
     "fa-radiation",
     "fa-radiation-alt",
-    "fa-skull-crossbones",
+    "fa-skull-crossbones"
+  ],
+  "Animals": [
     "fa-cat",
     "fa-crow",
     "fa-dog",
@@ -37,7 +41,9 @@
     "fa-kiwi-bird",
     "fa-otter",
     "fa-paw",
-    "fa-spider",
+    "fa-spider"
+  ],
+  "Arrows": [
     "fa-angle-double-down",
     "fa-angle-double-left",
     "fa-angle-double-right",
@@ -136,7 +142,10 @@
     "fa-text-width",
     "fa-undo",
     "fa-undo-alt",
-    "fa-upload",
+    "fa-upload"
+  ],
+  "Audio&Video": [],
+  "Automotive": [
     "fa-air-freshener",
     "fa-ambulance",
     "fa-bus",
@@ -157,7 +166,9 @@
     "fa-trailer",
     "fa-truck",
     "fa-truck-monster",
-    "fa-truck-pickup",
+    "fa-truck-pickup"
+  ],
+  "Autumn": [
     "fa-apple-alt",
     "fa-campground",
     "fa-cloud-sun",
@@ -168,7 +179,9 @@
     "fa-tractor",
     "fa-tree",
     "fa-wind",
-    "fa-wine-bottle",
+    "fa-wine-bottle"
+  ],
+  "Beverage": [
     "fa-beer",
     "fa-blender",
     "fa-cocktail",
@@ -181,7 +194,9 @@
     "fa-mug-hot",
     "fa-wine-bottle",
     "fa-wine-glass",
-    "fa-wine-glass-alt",
+    "fa-wine-glass-alt"
+  ],
+  "Buildings": [
     "fa-archway",
     "fa-building",
     "fa-campground",
@@ -210,7 +225,9 @@
     "fa-torii-gate",
     "fa-university",
     "fa-vihara",
-    "fa-warehouse",
+    "fa-warehouse"
+  ],
+  "Business": [
     "fa-address-book",
     "fa-address-card",
     "fa-archive",
@@ -288,7 +305,9 @@
     "fa-tasks",
     "fa-thumbtack",
     "fa-trademark",
-    "fa-wallet",
+    "fa-wallet"
+  ],
+  "Camping": [
     "fa-binoculars",
     "fa-campground",
     "fa-caravan",
@@ -307,7 +326,9 @@
     "fa-route",
     "fa-toilet-paper",
     "fa-trailer",
-    "fa-tree",
+    "fa-tree"
+  ],
+  "Charity": [
     "fa-dollar-sign",
     "fa-donate",
     "fa-dove",
@@ -323,7 +344,9 @@
     "fa-parachute-box",
     "fa-piggy-bank",
     "fa-ribbon",
-    "fa-seedling",
+    "fa-seedling"
+  ],
+  "Chat": [
     "fa-comment",
     "fa-comment-alt",
     "fa-comment-dots",
@@ -342,7 +365,9 @@
     "fa-smile",
     "fa-sms",
     "fa-video",
-    "fa-video-slash",
+    "fa-video-slash"
+  ],
+  "Chess": [
     "fa-chess",
     "fa-chess-bishop",
     "fa-chess-board",
@@ -351,7 +376,9 @@
     "fa-chess-pawn",
     "fa-chess-queen",
     "fa-chess-rook",
-    "fa-square-full",
+    "fa-square-full"
+  ],
+  "Childhood": [
     "fa-apple-alt",
     "fa-baby",
     "fa-baby-carriage",
@@ -366,7 +393,9 @@
     "fa-robot",
     "fa-school",
     "fa-shapes",
-    "fa-snowman",
+    "fa-snowman"
+  ],
+  "Clothing": [
     "fa-graduation-cap",
     "fa-hat-cowboy",
     "fa-hat-cowboy-side",
@@ -375,7 +404,9 @@
     "fa-shoe-prints",
     "fa-socks",
     "fa-tshirt",
-    "fa-user-tie",
+    "fa-user-tie"
+  ],
+  "Code": [
     "fa-archive",
     "fa-barcode",
     "fa-bath",
@@ -403,7 +434,9 @@
     "fa-window-close",
     "fa-window-maximize",
     "fa-window-minimize",
-    "fa-window-restore",
+    "fa-window-restore"
+  ],
+  "Communication": [
     "fa-address-book",
     "fa-address-card",
     "fa-american-sign-language-interpreting",
@@ -440,7 +473,9 @@
     "fa-rss-square",
     "fa-tty",
     "fa-voicemail",
-    "fa-wifi",
+    "fa-wifi"
+  ],
+  "Computers": [
     "fa-compact-disc",
     "fa-database",
     "fa-desktop",
@@ -469,7 +504,9 @@
     "fa-tablet",
     "fa-tablet-alt",
     "fa-tv",
-    "fa-upload",
+    "fa-upload"
+  ],
+  "Construction": [
     "fa-brush",
     "fa-drafting-compass",
     "fa-dumpster",
@@ -486,7 +523,9 @@
     "fa-toolbox",
     "fa-tools",
     "fa-truck-pickup",
-    "fa-wrench",
+    "fa-wrench"
+  ],
+  "Currency": [
     "fa-dollar-sign",
     "fa-euro-sign",
     "fa-hryvnia",
@@ -503,7 +542,10 @@
     "fa-shekel-sign",
     "fa-tenge",
     "fa-won-sign",
-    "fa-yen-sign",
+    "fa-yen-sign"
+  ],
+  "Date&Time": [],
+  "Design": [
     "fa-adjust",
     "fa-bezier-curve",
     "fa-brush",
@@ -549,7 +591,9 @@
     "fa-swatchbook",
     "fa-tint",
     "fa-tint-slash",
-    "fa-vector-square",
+    "fa-vector-square"
+  ],
+  "Editors": [
     "fa-align-center",
     "fa-align-justify",
     "fa-align-left",
@@ -623,7 +667,9 @@
     "fa-undo",
     "fa-undo-alt",
     "fa-unlink",
-    "fa-wrench",
+    "fa-wrench"
+  ],
+  "Education": [
     "fa-apple-alt",
     "fa-atom",
     "fa-award",
@@ -640,7 +686,9 @@
     "fa-school",
     "fa-shapes",
     "fa-theater-masks",
-    "fa-user-graduate",
+    "fa-user-graduate"
+  ],
+  "Emoji": [
     "fa-angry",
     "fa-dizzy",
     "fa-flushed",
@@ -676,7 +724,9 @@
     "fa-smile-beam",
     "fa-smile-wink",
     "fa-surprise",
-    "fa-tired",
+    "fa-tired"
+  ],
+  "Energy": [
     "fa-atom",
     "fa-battery-empty",
     "fa-battery-full",
@@ -702,7 +752,9 @@
     "fa-solar-panel",
     "fa-sun",
     "fa-water",
-    "fa-wind",
+    "fa-wind"
+  ],
+  "Files": [
     "fa-archive",
     "fa-clone",
     "fa-copy",
@@ -723,7 +775,9 @@
     "fa-paste",
     "fa-photo-video",
     "fa-save",
-    "fa-sticky-note",
+    "fa-sticky-note"
+  ],
+  "Finance": [
     "fa-balance-scale",
     "fa-balance-scale-left",
     "fa-balance-scale-right",
@@ -750,7 +804,9 @@
     "fa-piggy-bank",
     "fa-receipt",
     "fa-stamp",
-    "fa-wallet",
+    "fa-wallet"
+  ],
+  "Fitness": [
     "fa-bicycle",
     "fa-biking",
     "fa-burn",
@@ -766,7 +822,9 @@
     "fa-snowboarding",
     "fa-spa",
     "fa-swimmer",
-    "fa-walking",
+    "fa-walking"
+  ],
+  "Food": [
     "fa-apple-alt",
     "fa-bacon",
     "fa-bone",
@@ -786,7 +844,10 @@
     "fa-pepper-hot",
     "fa-pizza-slice",
     "fa-seedling",
-    "fa-stroopwafel",
+    "fa-stroopwafel"
+  ],
+  "Fruits&Vegetables": [],
+  "Games": [
     "fa-chess",
     "fa-chess-bishop",
     "fa-chess-board",
@@ -808,18 +869,11 @@
     "fa-ghost",
     "fa-headset",
     "fa-heart",
-    "fa-puzzle-piece",
-    "fa-book-dead",
-    "fa-broom",
-    "fa-cat",
-    "fa-cloud-moon",
-    "fa-crow",
-    "fa-ghost",
-    "fa-hat-wizard",
-    "fa-mask",
-    "fa-skull-crossbones",
-    "fa-spider",
-    "fa-toilet-paper",
+    "fa-puzzle-piece"
+  ],
+  "Genders": [],
+  "Halloween": [],
+  "Hands": [
     "fa-allergies",
     "fa-fist-raised",
     "fa-hand-holding",
@@ -848,7 +902,9 @@
     "fa-handshake-slash",
     "fa-praying-hands",
     "fa-thumbs-down",
-    "fa-thumbs-up",
+    "fa-thumbs-up"
+  ],
+  "Health": [
     "fa-ambulance",
     "fa-h-square",
     "fa-heart",
@@ -859,7 +915,9 @@
     "fa-prescription",
     "fa-stethoscope",
     "fa-user-md",
-    "fa-wheelchair",
+    "fa-wheelchair"
+  ],
+  "Holiday": [
     "fa-candy-cane",
     "fa-carrot",
     "fa-cookie-bite",
@@ -869,7 +927,9 @@
     "fa-holly-berry",
     "fa-mug-hot",
     "fa-sleigh",
-    "fa-snowman",
+    "fa-snowman"
+  ],
+  "Hotel": [
     "fa-baby-carriage",
     "fa-bath",
     "fa-bed",
@@ -904,7 +964,9 @@
     "fa-umbrella-beach",
     "fa-utensils",
     "fa-wheelchair",
-    "fa-wifi",
+    "fa-wifi"
+  ],
+  "Household": [
     "fa-bath",
     "fa-bed",
     "fa-bell",
@@ -929,7 +991,9 @@
     "fa-soap",
     "fa-toilet-paper",
     "fa-toilet-paper-slash",
-    "fa-tv",
+    "fa-tv"
+  ],
+  "Images": [
     "fa-adjust",
     "fa-bolt",
     "fa-camera",
@@ -951,7 +1015,9 @@
     "fa-photo-video",
     "fa-portrait",
     "fa-sliders-h",
-    "fa-tint",
+    "fa-tint"
+  ],
+  "Interfaces": [
     "fa-award",
     "fa-ban",
     "fa-barcode",
@@ -1116,7 +1182,9 @@
     "fa-volume-off",
     "fa-volume-up",
     "fa-wifi",
-    "fa-wrench",
+    "fa-wrench"
+  ],
+  "Logistics": [
     "fa-box",
     "fa-boxes",
     "fa-clipboard-check",
@@ -1127,7 +1195,9 @@
     "fa-pallet",
     "fa-shipping-fast",
     "fa-truck",
-    "fa-warehouse",
+    "fa-warehouse"
+  ],
+  "Maps": [
     "fa-ambulance",
     "fa-anchor",
     "fa-balance-scale",
@@ -1253,7 +1323,9 @@
     "fa-wheelchair",
     "fa-wifi",
     "fa-wine-glass",
-    "fa-wrench",
+    "fa-wrench"
+  ],
+  "Maritime": [
     "fa-anchor",
     "fa-binoculars",
     "fa-compass",
@@ -1263,7 +1335,9 @@
     "fa-skull-crossbones",
     "fa-swimmer",
     "fa-water",
-    "fa-wind",
+    "fa-wind"
+  ],
+  "Marketing": [
     "fa-ad",
     "fa-bullhorn",
     "fa-bullseye",
@@ -1276,7 +1350,9 @@
     "fa-poll",
     "fa-poll-h",
     "fa-search-dollar",
-    "fa-search-location",
+    "fa-search-location"
+  ],
+  "Mathematics": [
     "fa-calculator",
     "fa-divide",
     "fa-equals",
@@ -1293,7 +1369,9 @@
     "fa-subscript",
     "fa-superscript",
     "fa-times",
-    "fa-wave-square",
+    "fa-wave-square"
+  ],
+  "Medical": [
     "fa-allergies",
     "fa-ambulance",
     "fa-bacteria",
@@ -1367,7 +1445,9 @@
     "fa-virus-slash",
     "fa-viruses",
     "fa-weight",
-    "fa-x-ray",
+    "fa-x-ray"
+  ],
+  "Moving": [
     "fa-archive",
     "fa-box-open",
     "fa-caravan",
@@ -1381,7 +1461,9 @@
     "fa-trailer",
     "fa-truck-loading",
     "fa-truck-moving",
-    "fa-wine-glass",
+    "fa-wine-glass"
+  ],
+  "Music": [
     "fa-compact-disc",
     "fa-drum",
     "fa-drum-steelpan",
@@ -1400,7 +1482,9 @@
     "fa-volume-down",
     "fa-volume-mute",
     "fa-volume-off",
-    "fa-volume-up",
+    "fa-volume-up"
+  ],
+  "Objects": [
     "fa-ambulance",
     "fa-anchor",
     "fa-archive",
@@ -1615,7 +1699,10 @@
     "fa-tv",
     "fa-umbrella",
     "fa-university",
-    "fa-unlock",
+    "fa-unlock"
+  ],
+  "Payments&Shopping": [],
+  "Pharmacy": [
     "fa-band-aid",
     "fa-book-medical",
     "fa-cannabis",
@@ -1642,7 +1729,9 @@
     "fa-tablets",
     "fa-thermometer",
     "fa-vial",
-    "fa-vials",
+    "fa-vials"
+  ],
+  "Political": [
     "fa-award",
     "fa-balance-scale",
     "fa-balance-scale-left",
@@ -1658,7 +1747,9 @@
     "fa-person-booth",
     "fa-piggy-bank",
     "fa-republican",
-    "fa-vote-yea",
+    "fa-vote-yea"
+  ],
+  "Religion": [
     "fa-ankh",
     "fa-atom",
     "fa-bahai",
@@ -1689,7 +1780,9 @@
     "fa-torah",
     "fa-torii-gate",
     "fa-vihara",
-    "fa-yin-yang",
+    "fa-yin-yang"
+  ],
+  "Science": [
     "fa-atom",
     "fa-biohazard",
     "fa-brain",
@@ -1718,7 +1811,10 @@
     "fa-temperature-high",
     "fa-temperature-low",
     "fa-vial",
-    "fa-vials",
+    "fa-vials"
+  ],
+  "ScienceFiction": [],
+  "Security": [
     "fa-ban",
     "fa-bug",
     "fa-door-closed",
@@ -1742,7 +1838,9 @@
     "fa-unlock-alt",
     "fa-user-lock",
     "fa-user-secret",
-    "fa-user-shield",
+    "fa-user-shield"
+  ],
+  "Shapes": [
     "fa-bookmark",
     "fa-calendar",
     "fa-certificate",
@@ -1757,7 +1855,9 @@
     "fa-play",
     "fa-shapes",
     "fa-square",
-    "fa-star",
+    "fa-star"
+  ],
+  "Shopping": [
     "fa-barcode",
     "fa-cart-arrow-down",
     "fa-cart-plus",
@@ -1775,7 +1875,9 @@
     "fa-store-alt-slash",
     "fa-store-slash",
     "fa-truck",
-    "fa-tshirt",
+    "fa-tshirt"
+  ],
+  "Social": [
     "fa-bell",
     "fa-birthday-cake",
     "fa-camera",
@@ -1805,7 +1907,9 @@
     "fa-user-friends",
     "fa-user-plus",
     "fa-users",
-    "fa-video",
+    "fa-video"
+  ],
+  "Spinners": [
     "fa-asterisk",
     "fa-atom",
     "fa-bahai",
@@ -1827,7 +1931,29 @@
     "fa-sun",
     "fa-sync",
     "fa-sync-alt",
-    "fa-yin-yang",
+    "fa-yin-yang"
+  ],
+  "Sports": [
+    "fa-baseball-ball",
+    "fa-basketball-ball",
+    "fa-biking",
+    "fa-bowling-ball",
+    "fa-dumbbell",
+    "fa-football-ball",
+    "fa-futbol",
+    "fa-golf-ball",
+    "fa-hockey-puck",
+    "fa-quidditch",
+    "fa-running",
+    "fa-skating",
+    "fa-skiing",
+    "fa-skiing-nordic",
+    "fa-snowboarding",
+    "fa-swimmer",
+    "fa-table-tennis",
+    "fa-volleyball-ball"
+  ],
+  "Spring": [
     "fa-allergies",
     "fa-broom",
     "fa-cloud-sun",
@@ -1835,7 +1961,9 @@
     "fa-frog",
     "fa-rainbow",
     "fa-seedling",
-    "fa-umbrella",
+    "fa-umbrella"
+  ],
+  "Status": [
     "fa-ban",
     "fa-battery-empty",
     "fa-battery-full",
@@ -1927,7 +2055,9 @@
     "fa-volume-mute",
     "fa-volume-off",
     "fa-volume-up",
-    "fa-wifi",
+    "fa-wifi"
+  ],
+  "Summer": [
     "fa-anchor",
     "fa-biking",
     "fa-fish",
@@ -1939,7 +2069,10 @@
     "fa-swimming-pool",
     "fa-umbrella-beach",
     "fa-volleyball-ball",
-    "fa-water",
+    "fa-water"
+  ],
+  "TabletopGaming": [],
+  "Toggle": [
     "fa-bullseye",
     "fa-check-circle",
     "fa-circle",
@@ -1951,7 +2084,9 @@
     "fa-star-half-alt",
     "fa-toggle-off",
     "fa-toggle-on",
-    "fa-wifi",
+    "fa-wifi"
+  ],
+  "Travel": [
     "fa-archway",
     "fa-atlas",
     "fa-bed",
@@ -1989,7 +2124,10 @@
     "fa-tv",
     "fa-umbrella-beach",
     "fa-wine-glass",
-    "fa-wine-glass-alt",
+    "fa-wine-glass-alt"
+  ],
+  "Users&People": [],
+  "Vehicles": [
     "fa-ambulance",
     "fa-baby-carriage",
     "fa-bicycle",
@@ -2020,7 +2158,9 @@
     "fa-truck",
     "fa-truck-monster",
     "fa-truck-pickup",
-    "fa-wheelchair",
+    "fa-wheelchair"
+  ],
+  "Weather": [
     "fa-bolt",
     "fa-cloud",
     "fa-cloud-meatball",
@@ -2041,7 +2181,9 @@
     "fa-temperature-low",
     "fa-umbrella",
     "fa-water",
-    "fa-wind",
+    "fa-wind"
+  ],
+  "Winter": [
     "fa-glass-whiskey",
     "fa-icicles",
     "fa-igloo",
@@ -2051,7 +2193,9 @@
     "fa-skiing-nordic",
     "fa-snowboarding",
     "fa-snowplow",
-    "fa-tram",
+    "fa-tram"
+  ],
+  "Writing": [
     "fa-archive",
     "fa-blog",
     "fa-book",
